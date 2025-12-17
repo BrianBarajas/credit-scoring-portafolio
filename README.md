@@ -1,16 +1,13 @@
-Credit Scoring - Análisis de Riesgo Crediticio
- Objetivo del Proyecto
-
+# Credit Scoring - Análisis de Riesgo Crediticio
+ ## Objetivo del Proyecto
 Desarrollar un modelo predictivo de scoring crediticio para evaluar la probabilidad de impago de clientes, demostrando habilidades en análisis financiero, ciencia de datos y machine learning aplicado a finanzas.
- Contexto del Problema
-
+ ## Contexto del Problema
 En el sector financiero, la evaluación precisa del riesgo crediticio es fundamental para:
-    Reducir pérdidas por morosidad
-    Optimizar la asignación de créditos
-    Cumplir con regulaciones (Basilea III, IFRS 9)
-    Mejorar la experiencia del cliente con decisiones justas
-
-Progreso del Proyecto
+   - Reducir pérdidas por morosidad
+   - Optimizar la asignación de créditos
+   - Cumplir con regulaciones (Basilea III, IFRS 9)
+   - Mejorar la experiencia del cliente con decisiones justas
+ ## Progreso del Proyecto
  
  Fase 1: Análisis Exploratorio (Completado)
    - Entendimiento del negocio
@@ -34,6 +31,5 @@ Progreso del Proyecto
    - Análisis SHAP/Feature importance
    - Construcción de scorecard
    - Análisis económico-financiero
-
-    Dashboard interactivo
+   - Dashboard interactivo
     
